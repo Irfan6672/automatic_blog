@@ -1,0 +1,5 @@
+{
+  "name": "NebulaBlog",
+  "description": "An AI-powered blog platform with automated scheduling, content generation, and a modern CMS dashboard.",
+  "requestFramePermissions": []
+}
